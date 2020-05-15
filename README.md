@@ -1,5 +1,11 @@
 # Linux Commands
 
+
+## Historico de comandos en linux
+``` 
+history
+```  
+
 ## Load average
 ```  
 w
