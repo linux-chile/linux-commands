@@ -32,4 +32,8 @@ Descomprimir: gzip -d index.php.gz
 Archivos .zip:
 Comprimir: zip archivo.zip carpeta
 Descomprimir: unzip archivo.zip
+``` 
+Stress de Sistemas
+```  
+stress --cpu 1 --timeout 20
 ```  
