@@ -1,6 +1,6 @@
 # Linux Commands
 
-## Espaci eb disco duro
+## Espacio en disco duro
 ``` 
 df -h
 ``` 
