@@ -1,5 +1,10 @@
 # Linux Commands
 
+## Cambiar password
+```
+sudo passwd
+```
+
 ## Espacio en disco duro
 ``` 
 df -h
