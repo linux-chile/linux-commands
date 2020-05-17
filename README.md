@@ -1,5 +1,9 @@
 # Linux Commands
 
+## Espaci eb disco duro
+``` 
+df -h
+``` 
 
 ## Historico de comandos en linux
 ``` 
