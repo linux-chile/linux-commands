@@ -1,5 +1,10 @@
 # Linux Commands
 
+Ruta
+```
+pwd
+```
+
 ## Mostramos ventana con caracteristica de la PC muy completa
 ```
 sudo add-apt-repository ppa:dawidd0811/neofetch && sudo apt update && sudo apt install neofetch
