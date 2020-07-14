@@ -1,5 +1,13 @@
 # Linux Commands
 
+Busqueda Recursiva
+```
+find . -name "prolase_gestion_maquinas"
+```
+
+
+# Linux Commands
+
 Ruta
 ```
 pwd
